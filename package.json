@@ -1,0 +1,20 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "My first socket.io app",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandiiiiiii/socket-chat-example.git"
+  },
+  "author": "Jianing Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandiiiiiii/socket-chat-example/issues"
+  },
+  "homepage": "https://github.com/Mandiiiiiii/socket-chat-example#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.3.0"
+  }
+}
